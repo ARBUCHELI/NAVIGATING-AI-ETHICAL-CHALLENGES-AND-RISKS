@@ -1,0 +1,8 @@
+# NAVIGATING AI ETHICAL CHALLENGES AND RISKS
+--------------------------------------------
+
+In this course, you will gain a foundational understanding of the ethical challenges and risks associated with generative AI. You will also gain awareness of the ethical considerations of 
+using generative AI, and learn about decision-making frameworks to navigate ethical challenges, and make responsible choices when working with this technology.
+
+* Navigating AI Ethical Challenges and Risks
+--------------------------------------------
